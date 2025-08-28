@@ -30,6 +30,12 @@
   text-align: center;
 }
 
+
+.echart {
+  min-width: 100px;
+  min-height: 200px;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
